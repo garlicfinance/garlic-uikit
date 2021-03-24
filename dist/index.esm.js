@@ -2124,6 +2124,10 @@ var socials = [
                 label: "Announcements",
                 href: "https://t.me/GarlicFinance",
             },
+            {
+                label: "English",
+                href: "https://t.me/GarlicFinanceCommunity",
+            },
         ],
     },
     {
